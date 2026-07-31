@@ -1,0 +1,5 @@
+train: D:/github/crack/dataset/images/train
+val: D:/github/crack/dataset/images/val
+
+nc: 1
+names: ["crack"]
